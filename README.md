@@ -72,7 +72,7 @@
 			2
 		</td>
 		<td>
-			<a href="https://github.com/maria0597/born2beroot">Born2BeRoot</a>
+			<a>Born2BeRoot</a>
 		</td>
 		<td>
 			VM (OS: Debian) 
@@ -89,7 +89,7 @@
 			3
 		</td>
 		<td>
-			push_swap
+			<a href="https://github.com/maria0597/push_swap">push_swap</a>
 		</td>
 		<td>
 			C
@@ -174,7 +174,7 @@
 			5
 		</td>
 		<td>
-			<a href="https://github.com/maria0597/miniRT">miniRT</a>
+			<a>miniRT</a>
 		</td>
 		<td>
 			C
@@ -242,7 +242,7 @@
 			6
 		</td>
 		<td>
-			<a href="https://github.com/maria0597/inception">Inception</a>
+			<a>Inception</a>
 		</td>
 		<td>
             Docker | nginx
